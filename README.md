@@ -7,3 +7,4 @@
 
 
 ## Screenshot 5.2:
+![image](https://github.com/ChristianOberio/2700-finals/assets/130380530/5c496cc5-954b-4122-b6ea-4dacc2884840)
